@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appicon_background">#3300ac</color>
+    <color name="yellow">#f1e900</color>
+    <color name="gold">#f9c937</color>
+    <color name="red">#F44336</color>
+</resources>
